@@ -1,3 +1,5 @@
+**Summary:**
+Writing effective selectors is crucial for test automation. CSS selectors are straightforward and fast but limited in capability, while XPath offers more flexibility and the ability to reference node content. Understanding XPath expressions, functions, and axes enhances the precision and effectiveness of locators in automation scripts. Mastery of these skills improves the reliability and maintainability of automated tests.
 
 **Test Automation and Locators:**
 In test automation, defining locators (selectors) is crucial as they identify elements on the UI where actions like clicks or text entries are performed. Effective locators are essential for accurate and reliable test automation.
@@ -31,5 +33,3 @@ In test automation, defining locators (selectors) is crucial as they identify el
 - **`preceding::`**: Selects nodes before the current node.
 - **`ancestor::`**: Selects ancestor nodes.
 - **`descendant::`**: Selects descendant nodes.
-**Summary:**
-Writing effective selectors is crucial for test automation. CSS selectors are straightforward and fast but limited in capability, while XPath offers more flexibility and the ability to reference node content. Understanding XPath expressions, functions, and axes enhances the precision and effectiveness of locators in automation scripts. Mastery of these skills improves the reliability and maintainability of automated tests.
